@@ -1,3 +1,10 @@
+#This code is used in automated time book for
+  
+
+
+
+
+
 import re,time
 c=time.asctime()   
 a,d=(int,re.findall(r'\d+',c))
